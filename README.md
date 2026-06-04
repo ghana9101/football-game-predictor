@@ -23,6 +23,8 @@ cd soccer-world-cup-2026-lab-1
 .\venv\Scripts\jupyter-lab.exe
 ```
 
+#### Option note: you can directly open the file bob_generated_code.ipynb
+   you can run the file according to the tasks that makes you a clear understanding in running the application
 ### Important Notes:
 - The virtual environment is located in the `venv/` directory
 - All packages are installed in the virtual environment
